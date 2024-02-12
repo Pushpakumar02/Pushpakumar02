@@ -23,4 +23,4 @@ currently looking for entry-level Software Engineer roles
 
 
 [![Leetcode Stats]![LeetCode Stats](https://leetcard.jacoblin.cool/PushpakumarB?theme=dark&font=Marcellus&ext=contest)
-[![Hareesh's github activity graph]![LeetCode Stats](https://leetcard.jacoblin.cool/PushpakumarB?theme=dark&font=Marcellus&ext=contest)
+[![Pushpakumar's github activity graph][![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pushpakumar02&bg_color=000000&color=fdf7fc&line=138626&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
