@@ -1,7 +1,7 @@
 ## Hi there 👋 This is Pushpakumar
 
 currently looking for entry-level Software Engineer roles 
-<img align="right" width="600" height="390" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
+<img align="right" width="500" height="390" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 - 🔭 Here's my [portfolio]()                                                 
 - 🌱 I’m currently learning DSA 
 - 👯 I’m looking to collaborate on Open source projects
