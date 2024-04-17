@@ -2,7 +2,7 @@
   
 currently looking for entry-level Software Engineer roles     
 <img align="right" width="400" height="330" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
-- 🔭 Here's my [CV](https://drive.google.com/file/d/1cW7vtgJdY_9fNn8pDaOA-Zc-YmnLCjbz/view?usp=sharing)                                                 
+- 🔭 Here's my [CV](https://drive.google.com/file/d/1MGkVUCcKlCqO0N6ZrKNqtmlqiHFvZ_-1/view?usp=sharing)                                                 
 - 🌱 I’m currently learning DSA and ML/AI
 - 👯 I’m looking to collaborate on Open source projects
 - 💬 Ask me about Tech
