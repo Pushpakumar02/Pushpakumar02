@@ -20,4 +20,4 @@ currently looking for entry-level Software Engineer roles
 
 
 
-[![Pushpakumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pushpakumar02&bg_color=000000&color=fdf7fc&line=138626&point=ffffff&area=true&hide_border=true)]
+[![Pushpakumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pushpakumar02&bg_color=000000&color=fdf7fc&line=138626&point=ffffff&area=true&hide_border=true)](https://linktr.ee/pushpakumar02/)
