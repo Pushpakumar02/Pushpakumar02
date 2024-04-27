@@ -21,3 +21,15 @@ currently looking for entry-level Software Engineer roles
 
 
 [![Pushpakumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pushpakumar02&bg_color=000000&color=fdf7fc&line=138626&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+
+# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
+
+<a href="https://github.com/jstrieb/github-stats">
+<img src="https://raw.githubusercontent.com/Pushpakumar02/Pushpakumar0/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/Pushpakumar02/Pushpakumar0/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+
