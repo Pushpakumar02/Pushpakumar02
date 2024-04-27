@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Hi there 👋 This is Pushpakumar   
   
 currently looking for entry-level Software Engineer roles     
