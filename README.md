@@ -2,7 +2,7 @@
   
 currently looking for entry-level Software Engineer roles     
 <a href="https://linktr.ee/pushpakumar02"><img align="right" width="400" height="330" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"></a>
-- 🔭 Here's my [CV](https://drive.google.com/file/d/1MGkVUCcKlCqO0N6ZrKNqtmlqiHFvZ_-1/view?usp=sharing)                                                 
+- 🔭 Here's my [Website](https://pushpakumar02.github.io/)                                                 
 - 🌱 I’m currently learning DSA and DS/ML/AI/CV/NLP/Deep Learning
 - 👯 I’m looking to collaborate on Open source projects
 - 💬 Ask me about Tech
