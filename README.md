@@ -3,7 +3,7 @@
 <a href="https://linktr.ee/pushpakumar02"><img align="right" width="400" height="330" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"></a>
 - 🔭 Here's my [Website](https://pushpakumar02.github.io/)                                                 
 - 🌱 I’m currently learning DSA and DS/ML/AI/CV/NLP/Deep Learning
-- 👯 I’m looking to collaborate on [SDE-repositiory-collection](https://github.com/Pushpakumar02/SDE-repositiory-collection)
+- 👯 I’m looking to collaborate on [Github-repositiory-collection](https://github.com/Pushpakumar02/SDE-repositiory-collection)
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />](https://linktr.ee/pushpakumar02/)
