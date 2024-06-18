@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Pushpakumar02&label=profile+views&style=plastic)
+
 ## Hi there 👋 This is Pushpakumar   
   
 <a href="https://linktr.ee/pushpakumar02"><img align="right" width="400" height="330" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"></a>
