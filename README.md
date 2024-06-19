@@ -17,8 +17,8 @@
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
 
-![](https://komarev.com/ghpvc/?username=Pushpakumar02&label=profile+views&style=plastic)
-<!-- ## [GitHub Stats Visualization](https://github.com/jstrieb/github-stats) -->
+<!--![](https://komarev.com/ghpvc/?username=Pushpakumar02&label=profile+views&style=plastic) -->
+## [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 <a href="https://github.com/jstrieb/github-stats">
 <img src="https://raw.githubusercontent.com/Pushpakumar02/Pushpakumar02/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/Pushpakumar02/Pushpakumar02/master/generated/languages.svg#gh-dark-mode-only" />
