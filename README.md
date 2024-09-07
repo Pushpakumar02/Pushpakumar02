@@ -1,14 +1,14 @@
 # Hi there 👋 This is Pushpakumar   
   
 <a href="https://linktr.ee/pushpakumar02"><img align="right" width="400" height="330" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"></a>
-- 🔭 Here's my [Website](https://pushpakumar02.github.io/)                                                 
+- 🔭 my [Website](https://pushpakumar02.github.io/)                                                 
 - 🌱 I’m currently learning DSA and DS/ML/AI/CV/NLP/Deep Learning
 - 👯 I’m looking to collaborate on [Github-repositiory-collection](https://github.com/Pushpakumar02/SDE-repositiory-collection)
-- 💬 Ask me about Tech
+<!--!- 💬 Ask me about Tech
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />](https://linktr.ee/pushpakumar02/)
 - 😄 Pronouns:Developer
-- ⚡ Fun fact: I am batman.
+- ⚡ Fun fact: I am batman. -->
 
 ### I code in
 <a href = "https://www.w3schools.com/python/"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /></a> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <a href="https://getbootstrap.com/"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /><a><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/express-js.png" alt="express-js"/>
